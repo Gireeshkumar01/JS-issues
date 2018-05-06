@@ -6,4 +6,4 @@ After installing go to the project directory and type live-server, your applicat
 
 Reference: https://www.youtube.com/watch?v=NYq9J-Eur9U
 
-Screen Shot 2018-05-06 at 10.38.59 AM
+
